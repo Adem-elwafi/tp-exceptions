@@ -1,0 +1,28 @@
+# Eclipse specific files
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
+
+# Maven (if you use it later)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Logs
+*.log
